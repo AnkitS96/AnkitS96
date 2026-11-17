@@ -1,8 +1,3 @@
-<!-- Header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3557,100:1F6FBF&height=170&section=header&text=Ankit%20Singh&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Paid%20social%20%26%20MarTech%20%7C%20I%20build%20the%20tools%20that%20watch%20the%20ad%20spend&descAlignY=60&descSize=16" alt="Ankit Singh banner" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1F6FBF&center=true&vCenter=true&width=640&lines=Meta+Ads+for+80%2B+brands+in+30%2B+markets;Pixel+%C2%B7+Conversions+API+%C2%B7+GTM+%C2%B7+GA4;I+automate+reporting+with+n8n+and+Claude;Open+to+remote+roles+and+freelance+work" alt="Typing intro" />
 </p>
@@ -68,23 +63,7 @@ Built with Claude Code as a single-file app.
 - Growing Spend Watch.
 - Learning more German and more about how ad data flows into back-end results.
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnkitS96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitS96&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitS96&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkitS96&theme=tokyonight&no-frame=true&row=1&column=4" alt="Trophies" />
-</p>
-
 ## 📬 Let's talk
 
 The quickest way is [email](mailto:ankit.ankit.singh00@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ankit-singh-wpl). Tell me what you are trying to fix, and I'll tell you honestly if I'm the right person.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FBF,100:1A3557&height=90&section=footer" alt="footer" />
-</p>
